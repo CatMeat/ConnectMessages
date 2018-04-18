@@ -1,0 +1,4 @@
+﻿
+0.2.0 - Added ability to ignore admin connect and disconnect 
+		Added config file
+0.1.0 - Initial creation and testing (Date unknown)
